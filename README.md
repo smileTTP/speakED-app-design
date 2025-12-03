@@ -1,3 +1,3 @@
 # speakED app design
 
-[!speakED App](education coaching app.png)
+[speakED App](education coaching app.png)
