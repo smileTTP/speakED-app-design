@@ -1,4 +1,4 @@
-# speakED app design
+# SpeakED app design
 
 ![SpeakED App](education-coaching-app.png)
 
