@@ -1,5 +1,7 @@
 # SpeakED app design
 
+***When teachers and students truly hear each other***
+
 ![SpeakED App](education-coaching-app.png)
 
 ## Individual pages
